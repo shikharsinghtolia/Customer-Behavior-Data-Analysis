@@ -105,7 +105,7 @@ Business questions answered directly in SQL:
 - 📉 Whether high-frequency repeat buyers are actually converting into subscribers
 - 📈 Revenue contribution by **age group**
 
-### 3️⃣ Dashboard Design (`Dashboard.pdf` / Power BI)
+### 3️⃣ Dashboard Design
 - Connected Power BI directly to the MySQL database.
 - Built DAX measures for core KPIs (avg. purchase, avg. rating, customer count).
 - Designed a single-page dashboard with donut, bar, and column charts plus cross-filtering slicers for fast exploration.
@@ -161,7 +161,7 @@ customer-shopping-behavior-analysis/
 ## 👤 Author
 
 **Shikhar**
-Aspiring Data Engineer / Data Scientist | Risk Analyst by day, data builder by night
+Aspiring Data Analyst
 
 Feel free to connect or reach out if you have feedback on this project!
 
